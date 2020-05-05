@@ -1,0 +1,20 @@
+---
+
+# Ceci est un commentaire
+
+macro print(t):
+  REG_TUTU = t && 0xFF # ho ho
+  return
+
+int a,b,c
+str d
+
+toto = "test"
+
+for c in toto:
+  if ((a==0) and (b!=1)):
+    print(c)
+
+
+while True:
+  pass
